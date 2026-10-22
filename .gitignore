@@ -1,0 +1,16 @@
+# Gradle / build output
+.gradle/
+.kotlin/
+build/
+versions/*/build/
+CLAUDE.md
+CLAUDELOGS.md
+# Dev run directories and IDE output
+run/
+bin/
+.idea/
+*.iml
+
+# Local agent instructions and handoff log (kept on disk, not published)
+CLAUDE.md
+CLAUDELOGS.md
