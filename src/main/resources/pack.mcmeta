@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Simple Perspective Camera resources",
+    "pack_format": ${pack_format}
+  }
+}
