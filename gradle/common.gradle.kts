@@ -10,12 +10,12 @@ fun prop(name: String): String = property(name).toString()
 val loader = name.substringAfterLast('-')
 val javaVersion = prop("java_version").toInt()
 
-// superbcamera-<mod version>-<loader>-mc<minecraft version>.jar
+// <archive_name>-<mod version>-<loader>-mc<minecraft version>.jar, e.g. simpleperspectivecamera-0.3.0-fabric-mc1.21.1.jar
 version = "${prop("mod_version")}-$loader-mc${prop("minecraft_version")}"
 group = "com.teamuhi.superbcamera"
 
 extensions.configure<BasePluginExtension> {
-    archivesName.set(prop("mod_id"))
+    archivesName.set(prop("archive_name"))
 }
 
 extensions.configure<JavaPluginExtension> {

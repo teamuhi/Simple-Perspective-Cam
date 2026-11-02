@@ -23,6 +23,17 @@ Client-side cinematic camera for Minecraft 1.20.1 (Forge, Fabric) and 1.21.1 (Fo
   <tr><td>\</td><td>Open the camera editor (rebindable)</td></tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center"><img src="assets/1.png" alt="Pose tab with the composition grid over a village tower" width="100%"><br><sub>Pose tab with the composition grid</sub></td>
+    <td align="center"><img src="assets/2.png" alt="Pose tab with a custom perspective at sunset" width="100%"><br><sub>Custom perspective at sunset</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/3.png" alt="Keys tab listing the editor shortcuts" width="100%"><br><sub>Keys tab: every editor shortcut</sub></td>
+    <td align="center"><img src="assets/4.png" alt="Targets tab listing nearby entities to follow" width="100%"><br><sub>Targets tab: entities to follow</sub></td>
+  </tr>
+</table>
+
 ## Editor controls
 
 <table>
@@ -39,11 +50,11 @@ Client-side cinematic camera for Minecraft 1.20.1 (Forge, Fabric) and 1.21.1 (Fo
 
 <table>
   <tr><th>Loader</th><th>Minecraft</th><th>Needs</th><th>Jar</th></tr>
-  <tr><td>Forge</td><td>1.20.1</td><td>Forge 47.2.0+, Kotlin for Forge 4.11.0+</td><td><code>superbcamera-&lt;version&gt;-forge-mc1.20.1.jar</code></td></tr>
-  <tr><td>Fabric</td><td>1.20.1</td><td>Fabric Loader 0.15+, Fabric API, Fabric Language Kotlin 1.11.0+</td><td><code>superbcamera-&lt;version&gt;-fabric-mc1.20.1.jar</code></td></tr>
-  <tr><td>Forge</td><td>1.21.1</td><td>Forge 52+ (built against 52.1.20), Kotlin for Forge 5.9.0+</td><td><code>superbcamera-&lt;version&gt;-forge-mc1.21.1.jar</code></td></tr>
-  <tr><td>NeoForge</td><td>1.21.1</td><td>NeoForge 21.1+, Kotlin for Forge 5.9.0+ (NeoForge build)</td><td><code>superbcamera-&lt;version&gt;-neoforge-mc1.21.1.jar</code></td></tr>
-  <tr><td>Fabric</td><td>1.21.1</td><td>Fabric Loader 0.16+, Fabric API, Fabric Language Kotlin 1.12.3+</td><td><code>superbcamera-&lt;version&gt;-fabric-mc1.21.1.jar</code></td></tr>
+  <tr><td>Forge</td><td>1.20.1</td><td>Forge 47.2.0+, Kotlin for Forge 4.11.0+</td><td><code>simpleperspectivecamera-&lt;version&gt;-forge-mc1.20.1.jar</code></td></tr>
+  <tr><td>Fabric</td><td>1.20.1</td><td>Fabric Loader 0.15+, Fabric API, Fabric Language Kotlin 1.11.0+</td><td><code>simpleperspectivecamera-&lt;version&gt;-fabric-mc1.20.1.jar</code></td></tr>
+  <tr><td>Forge</td><td>1.21.1</td><td>Forge 52+ (built against 52.1.20), Kotlin for Forge 5.9.0+</td><td><code>simpleperspectivecamera-&lt;version&gt;-forge-mc1.21.1.jar</code></td></tr>
+  <tr><td>NeoForge</td><td>1.21.1</td><td>NeoForge 21.1+, Kotlin for Forge 5.9.0+ (NeoForge build)</td><td><code>simpleperspectivecamera-&lt;version&gt;-neoforge-mc1.21.1.jar</code></td></tr>
+  <tr><td>Fabric</td><td>1.21.1</td><td>Fabric Loader 0.16+, Fabric API, Fabric Language Kotlin 1.12.3+</td><td><code>simpleperspectivecamera-&lt;version&gt;-fabric-mc1.21.1.jar</code></td></tr>
 </table>
 
 > **Note:** other newer Minecraft versions will be added soon.
