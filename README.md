@@ -2,6 +2,17 @@
 
 Client-side cinematic camera for Minecraft 1.20.1 (Forge, Fabric) and 1.21.1 (Forge, NeoForge, Fabric). Adds adjustable, lockable third-person perspectives to the F5 cycle, with a live editor and vehicle/target following. Works with [Superb Warfare](https://www.curseforge.com/minecraft/mc-mods/superb-warfare) vehicles (optional).
 
+<table>
+  <tr>
+    <td align="center"><img src="assets/1.png" alt="Pose tab with the composition grid over a village tower" width="100%"><br><sub>Pose tab with the composition grid</sub></td>
+    <td align="center"><img src="assets/2.png" alt="Pose tab with a custom perspective at sunset" width="100%"><br><sub>Custom perspective at sunset</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/3.png" alt="Keys tab listing the editor shortcuts" width="100%"><br><sub>Keys tab: every editor shortcut</sub></td>
+    <td align="center"><img src="assets/4.png" alt="Targets tab listing nearby entities to follow" width="100%"><br><sub>Targets tab: entities to follow</sub></td>
+  </tr>
+</table>
+
 ## Features
 
 - Custom perspectives added to the F5 cycle
@@ -23,16 +34,6 @@ Client-side cinematic camera for Minecraft 1.20.1 (Forge, Fabric) and 1.21.1 (Fo
   <tr><td>\</td><td>Open the camera editor (rebindable)</td></tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/1.png" alt="Pose tab with the composition grid over a village tower" width="100%"><br><sub>Pose tab with the composition grid</sub></td>
-    <td align="center"><img src="assets/2.png" alt="Pose tab with a custom perspective at sunset" width="100%"><br><sub>Custom perspective at sunset</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/3.png" alt="Keys tab listing the editor shortcuts" width="100%"><br><sub>Keys tab: every editor shortcut</sub></td>
-    <td align="center"><img src="assets/4.png" alt="Targets tab listing nearby entities to follow" width="100%"><br><sub>Targets tab: entities to follow</sub></td>
-  </tr>
-</table>
 
 ## Editor controls
 
